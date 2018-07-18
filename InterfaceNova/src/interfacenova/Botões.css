@@ -1,0 +1,7 @@
+.botao-salvar{
+  -fx-background-image: url(Salvar.png);
+}
+
+.botao-editar {
+   -fx-background-image: url(Editar.png);  
+}
